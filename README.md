@@ -4,7 +4,7 @@ University Machine Learning project. The goal is to predict whether a **traffic 
 
 ## Dataset
 
-**Smart Traffic Management Dataset** (Kaggle): 2,000 one-minute readings from 5 locations, covering about 33 hours.
+[**Smart Traffic Management Dataset**](https://www.kaggle.com/datasets/smmmmmmmmmmmm/smart-traffic-management-dataset) (Kaggle, license: CC BY 4.0): 2,000 one-minute readings from 5 locations, covering about 33 hours.
 
 | Column | Description |
 |---|---|
